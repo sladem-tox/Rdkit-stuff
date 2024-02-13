@@ -11,3 +11,5 @@ Calculating 2D descriptors (Here I used molfeat. It has to be installed, e.g. Co
 
 Calculate a large number of descriptors using Mordred
 
+[Make fingerprints and also create cannonical smiles](makeFPs_CannonicalSMILES.ipynb)
+
