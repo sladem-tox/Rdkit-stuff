@@ -6,3 +6,6 @@ Data cleaning with rdkit
 Drawing molecules with rdkit
 
 Generating Morgan fingerprint column (fps) from a SMILES column in a dataframe
+
+Calculating 2D descriptors
+
