@@ -3,7 +3,7 @@ A collection of notebooks with simple code for working with molecules in rdkit.
 
 Data cleaning with rdkit
 
-Drawing molecules with rdkit
+[Drawing molecules with rdkit](DrawMol.ipynb)
 
 [Generating Morgan fingerprint](Fingerprints_from_df.ipynb) column (fps) from a SMILES column in a dataframe
 
